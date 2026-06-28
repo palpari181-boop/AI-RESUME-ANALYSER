@@ -15,3 +15,5 @@
 
 ## resume screenshot:
 https://github.com/palpari181-boop/AI-RESUME-ANALYSER/blob/e1839d6fa4c2526e72e01575ac95bcf1eb7af4b5/Screenshot%202026-06-28%20175430.png
+https://github.com/palpari181-boop/AI-RESUME-ANALYSER/blob/152a8cfd99de774d518399479181eacae6700241/Screenshot%202026-06-28%20175452.png
+
